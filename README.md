@@ -41,3 +41,4 @@ The following image shows the web application's appearance and functionality
 ![image](https://user-images.githubusercontent.com/118794860/213964890-bff36467-f2ac-4cf2-8581-f625fb526770.png)
 
 Link to deployed application
+https://jloya900.github.io/Password-Generator/
