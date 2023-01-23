@@ -1,4 +1,4 @@
-# Module 03
+# Module 03 Challenge
 This repository contains the code for my module 3 challenge random password generator
 # JavaScript Challenge: Password Generator
 
